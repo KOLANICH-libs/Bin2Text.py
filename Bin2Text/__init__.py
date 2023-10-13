@@ -4,6 +4,8 @@ from warnings import warn
 
 from collections import Counter
 
+warn("We have moved from M$ GitHub to https://codeberg.org/KOLANICH-libs/Bin2Text.py , read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo .")
+
 asciiChars = "eainotrslduchmpgfbywkvzSACjMTPBLIDREGFNHKqWJxOVUZYXQ"
 extAdditLatin = "éóäłèüàąáíśężåñúńßçýćÉčêùôšžòæîźâľÈŚťïûÜìŁÁœŻňÅďČŠĺŽ"
 DEFAULT_ALPHABET = asciiChars + extAdditLatin + string.digits
